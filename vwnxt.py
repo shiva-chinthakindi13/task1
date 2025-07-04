@@ -9,7 +9,7 @@ def word(name):
 
  print(secret)
  
-word("bcdhj")
+word("python")
 
 
 
